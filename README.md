@@ -28,6 +28,4 @@ O desafio original foi criado pelo Ismael Sousa e pode ser acessado em: https://
 
 O apk pode ser baixado no link: https://github.com/luizgmartins/flashlightDT/raw/master/flashlightDT.apk
 
-Ou através do repositório com o nome "flashlightDT.apk"
-
-O app para android pode ser instalado e testado.
+Pode baixar através do repositório com o nome "flashlightDT.apk" ou nos Releases.
